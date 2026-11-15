@@ -1,0 +1,6 @@
+{
+  "name": "ZAZA XPRAS – Educational Platform",
+  "description": "Professional educational platform for teachers and students featuring courses, video lessons, online exams, Egypt subscription payments, and a complete no-code admin CMS. Designed & Developed by ZAZA XPRAS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
